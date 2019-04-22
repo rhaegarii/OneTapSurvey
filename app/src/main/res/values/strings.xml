@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MakerSurvey</string>
+    <string name="ok">Okay</string>
+    <string name="nothanks">No thanks!</string>
+    <string name="question">How was your experience at the Invention Studio?</string>
+    <string name="switchtitle">Custom Menu On/Off</string>
+    <string name="edittextquestion">Enter Question Being Asked</string>
+    <string name="edittextanswer1">Enter Left Answer</string>
+    <string name="edittextanswer2">Enter Middle Answer</string>
+    <string name="edittextanswer3">Enter Right Answer</string>
+    <string name="edittextfilename">What filename would you like to save this under?</string>
+    <string name="apply_Button">apply_Button</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
